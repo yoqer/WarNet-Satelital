@@ -5,5 +5,4 @@ WarNet Satelital es una Nave no tripulada preparada para la Orbitacion Satelital
 Con recepciones y emisiones de señales es un repetidor de largo alcance y centro del procesamiento de datos espacial con total autonomia, independencia y conectado.
 Con facultad superior de AGI, de Nave Espacial, para Realizar Acciones y de Amplificacion de Señales Avanzadas Satelitales.
 
-[Ligero](https://youtu.be/OIpxAL6ftPI?si=DPCX8l6n7FuOvJon)
-
+[Ligero](https://youtu.be/OIpxAL6ftPI?si=DPCX8l6n7FuOvJon)[Comunicaciones](https://youtu.be/j3U37fL15Yk?si=GC-jrQMumattNyGz)[Seguridad]
