@@ -12,9 +12,7 @@ Con facultad superior de AGI, de Nave Espacial, para Realizar Acciones y de Ampl
 
 ___________________________________
 
-[Construcción](https://youtu.be/dtIVPgO6-yg?si=eLq4pMS_rDdCiPtm)
+[Espacial](https://youtu.be/dtIVPgO6-yg?si=eLq4pMS_rDdCiPtm)
 
-
-|
-
-[Manual]
+| [Montaje] 
+| [Orbita]
