@@ -12,7 +12,8 @@ Con facultad superior de AGI, de Nave Espacial, para Realizar Acciones y de Ampl
 
 ___________________________________
 
-[Espacial](https://youtu.be/dtIVPgO6-yg?si=eLq4pMS_rDdCiPtm)
-| [Seguro](https://youtu.be/-oifCnBjM0g?is=UlpUviIuNlY7ZoNj)
+ [Seguro](https://youtu.be/-oifCnBjM0g?is=UlpUviIuNlY7ZoNj)
+ | [Espacial](https://youtu.be/dtIVPgO6-yg?si=eLq4pMS_rDdCiPtm)
+
  | [Montaje](https://youtu.be/6KcV1C1Ui5s?is=We2lvHC8aZR4-K4o)
  | [Lanzar](https://blog.seur.com/coste-enviar-pedidos-estacion-espacial-luna-marte/#:~:text=Para%20poner%20%EE%80%80sat%C3%A9lite)
